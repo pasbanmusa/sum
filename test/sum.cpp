@@ -7,5 +7,6 @@ int main(){
   a = 4;
   b = 6;
   cout<<a + b;
+  cout<<a - b;
   return 0;
 }
